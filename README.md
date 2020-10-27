@@ -4,13 +4,11 @@ Machine Project In NSCOM02
 
 Machine Project allowing a user to choose an option that would help him or her with networking:
 
-Hello there Network Engineer!
-In order to help you, please select any of the following options:
-
-1.Subnet Calculator
-2.Check Address Class
-3.Check Address Type
-4.Exit
+## The Subnet Calculator has 4 options:
+1. Subnet Calculator
+2. Check Address Class
+3. Check Address Type
+4. Exit
 
 ## User Interface
 ![alt text](https://github.com/Jake-salazar/Subnet-Calculator/blob/master/NSCOM02_MSP1.PNG)
